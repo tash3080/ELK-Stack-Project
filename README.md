@@ -1,5 +1,7 @@
 ## Automated ELK Stack Deployment
 
+In this project, I configured an ELK stack server in order to set up a cloud monitoring system. This project resulted in tangible deliverables that demonstrate my knowledge of cloud, network security, logging and monitoring.
+
 The files in this repository were used to configure the network depicted below.
 
 ![Network diagram](Images/W13-CloudResource_Diagram.png)
